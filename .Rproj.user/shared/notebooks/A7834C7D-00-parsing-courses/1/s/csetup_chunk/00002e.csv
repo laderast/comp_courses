@@ -1,0 +1,19 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","library(pdftools)"
+"0","library(here)"
+"0","library(tabulizer)"
+"0","library(tabulizerjars)"
+"0","library(stringr)"
+"0","library(dplyr)"
+"0","pdfs <- list.files(here(""data""),full.names = TRUE)"
+"0","text_files <- lapply(pdfs, pdf_text)"
+"2","PDF error: May not be a PDF file (continuing anyway)
+"
+"2","PDF error: Couldn't find trailer dictionary
+"
+"2","PDF error: Couldn't find trailer dictionary
+"
+"2","PDF error: Couldn't read xref table
+"
+"2","Error in poppler_pdf_text(loadfile(pdf), opw, upw) : PDF parsing failure.
+"

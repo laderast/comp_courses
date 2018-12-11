@@ -1,0 +1,75 @@
+---
+title: "Listing the courses at OHSU"
+author: "Ted Laderas"
+date: "December 3, 2018"
+output: html_document
+---
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+library(pdftools)
+library(here)
+library(tabulizer)
+library(tabulizerjars)
+library(stringr)
+library(dplyr)
+
+pdfs <- list.files(here("data"),full.names = TRUE)
+
+text_files <- lapply(pdfs, pdf_text)
+
+#tabs <- extract_tables(pdfs[[1]], method = "lattice")
+tabs <- lapply(pdfs, extract_tables, method="lattice")
+
+
+
+remove_cols <- function(y){
+  cols <- y[2,]
+  y <- y[-c(1,2),]
+  y <- y %>% data.frame() %>% dplyr::select_if(function(x){
+  !all(x=="")})
+  y
+  }
+
+
+tabs <- lapply(tabs, function(z){
+  out <- lapply(z, function(q) {
+    
+    
+    q <- remove_cols(q)
+    
+    if(ncol(q)==9){ q <- q[,-6]}
+    colnames(q) <-c("crn", "course_number", "title", "instructors", "credits",  "time", "days", "campus")
+    q
+    }
+                
+               )
+  Reduce(rbind,out)
+})
+
+names(tabs) <- c("Spring 18", "Fall 18", "Summer 18", "Winter 19")
+
+tabs2 <- lapply(names(tabs), function(x){
+  out <- tabs[[x]] %>% dplyr::mutate(quarter = x)
+  out  
+})
+
+full_table <- Reduce(rbind, tabs2)
+
+full_tab <- full_table %>% dplyr::filter(crn != "")
+full_tab <- full_tab %>% tidyr::separate(col=course_number, into=c("department", "course_number"), sep=" ")
+
+
+```
+
+```{r}
+remove_courses <- c("Phd Dissertation Research", "Thesis", "Prequalifying Phd Research", "Dissertation", "Research", "Capstone Project", "Capstone: Internship", "M.S. Thesis Research", "PhD Prequalifying Research", "PhD Dissertation Research", "Reading & Conference", "Reading And Conference", "Mentored Teaching", "Mentored Teaching Prep", "Doctoral Symposium", "Reading and Conference", "Masters Nonthesis Research", "Rural Comm Continuity Project", "Rural Community Project")
+
+remove_depts <- c("FSS", "IPE", "UNI")
+
+full_tab <- full_tab %>% dplyr::filter(!title %in% remove_courses) %>% dplyr::filter(!department %in% remove_depts)
+
+DT::datatable(full_tab)
+
+write.table(full_tab, "data/full_courses.txt", quote=FALSE, sep="\t", row.names = FALSE)
+```

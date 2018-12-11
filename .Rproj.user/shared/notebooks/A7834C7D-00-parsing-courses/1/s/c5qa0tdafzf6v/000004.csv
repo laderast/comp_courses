@@ -1,0 +1,5 @@
+"0","full_tab <- full_tab %>% dplyr::filter(!title %in% remove_courses) %>% dplyr::filter(!department %in% remove_depts)
+"
+"2","Error in filter_impl(.data, quo) : 
+  Evaluation error: object 'remove_depts' not found.
+"
