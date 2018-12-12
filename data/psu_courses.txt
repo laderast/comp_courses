@@ -1,0 +1,51 @@
+department	course_number	crn	title	instructors	credits	days	time	location	quarter
+BSTA	500	11080	Reading & Research Biostat	Fu, Rochelle	1-3	By arrangement	Check SIS	OHSU Campus	Fall 2018
+BSTA	507	11082	Field Experience	Fu, Rochelle	1-6	By arrangement	Check SIS	OHSU Campus	Fall 2018
+BSTA	510	11059	Biostatistics Lab	Choi, Dongseok	3	By arrangement	Check SIS	OHSU Campus	Fall 2018
+BSTA	511	11075	Est/Hypo Test Applied Biostat	Nguyen, Thuan	4	M, W	1300-1450	Check SIS	Fall 2018
+BSTA	515	11060	Data Management-Analysis SAS	Nguyen, Thuan	3	T	1530-1810	Check SIS	Fall 2018
+BSTA	519	11083	Appl Longitudinal Data Analysi	Fu, Rochelle	3	M	1500-1750	Check SIS	Fall 2018
+BSTA	550	11061	Introduction to Probability	Niederhausen, Meike	3	M, W	1030-1200	Check SIS	Fall 2018
+BSTA	525	11147	Intro to Biostatistics	Srikanth, Priya	4	OHSU Online	Check SIS	OHSU Campus	Fall 2018
+BSTA	611	11062	Est/Hypo Test Applied Biostat	Nguyen, Thuan	4	M, W	1300-1450	Check SIS	Fall 2018
+UNI	504	11173	Qualitative Methods/Health Pro	Marriott, Lisa	2	W	1500-1640	Check Banweb	Fall 2018
+BSTA	500-RF	31100	Reading & Research Biostat	Fu, Rochelle	1-3	N/A	Check SIS	OHSU Campus	Spring 2018
+BSTA	503-RF	31101	Thesis	Fu, Rochelle	1-3	N/A	Check SIS	OHSU Campus	Spring 2018
+BSTA	507-RF	31119	Field Experience	Fu, Rochelle	1-6	N/A	Check SIS	OHSU Campus	Spring 2018
+BSTA	510-0	31102	Biostatistics Lab	Choi, Dongseok	3	T	Arrange byInstructor	Check SIS	Spring 2018
+BSTA	513-0	31103	Categorical Data Analysis	Chen, Yiyi	4	M,W	1300-1450	Check SIS	Spring 2018
+BSTA	516-0	31126	Design Analysis of Surveys	Nguyen, Thuan	3	T	1300-1550	Check SIS	Spring 2018
+BSTA	521-0	32187	Bayesian Methods for Data Analysis	Fu, Rochelle	3	M	1500-1750	Check SIS	Spring 2018
+BSTA	523-0	31159	Design of Experiments	Park, Byung	3	R	0830-1130	Check SIS	Spring 2018
+BSTA	552-0	31104	Mathematical Statistics II	Minnier, Jessica	3	M,W	1000-1130	Check SIS	Spring 2018
+BSTA	613-0	31105	Categorical Data Analysis	Chen, Yiyi	4	M,W	1300-1450	Check SIS	Spring 2018
+PHPM	503-JBH	31106	Thesis	Heinonen, Janne	1-12	N/A	Check SIS	OHSU Campus	Spring 2018
+PHPM	504	31107	Work Experience/Internship	Heinonen, Janne	1-6	N/A	Check SIS	OHSU Campus	Spring 2018
+PHPM	505-JBH	31121	Reading and Conference	Heinonen, Janne	1-6	N/A	Check SIS	OHSU Campus	Spring 2018
+PHPM	507-0	31161	Sem: Community Health	Stull, John; Zaman, Atif	1	T	1730-1900	Check SIS	Spring 2018
+PHPM	514-0	31127	Epidemiology III	Lambert, William	4	T,R	1300-1450	Check SIS	Spring 2018
+PHPM	518	32227	Concepts of Environmental Health	Marriott, Lisa	3	W	1600-1830	Check SIS	Spring 2018
+PHPM	524-0	31132	Intro to Biostatistics	Srikanth, Priya	4	T,R	0930-1120	Check SIS	Spring 2018
+PHPM	576-0	32208	Chronic Disease Epidemiology	Becker, Thomas	2	R	1500-1640	Check SIS	Spring 2018
+PHPM	603-0	31133	Epi Doctoral Dissertation	Marshall, Lynn	1-12	N/A	Check SIS	OHSU Campus	Spring 2018
+PHPM	605-LM	31122	Reading and Conference	Marshall, Lynn	1-4	N/A	Check SIS	OHSU Campus	Spring 2018
+PHPM	610-0	31123	Epi Doctoral Seminar	Snowden, Jonathan	3	W	0900-1200	Check SIS	Spring 2018
+PHPM	614-0	31134	Epidemiology III	Lambert, William	4	T,R	1300-1450	Check SIS	Spring 2018
+PHPM	650-LM	31124	Mentored Epi Research	Marshall, Lynn	1-6	N/A	Check SIS	OHSU Campus	Spring 2018
+PHPM	660-LM	31125	Mentored Epi Teaching	Marshall, Lynn	1	N/A	Check SIS	OHSU Campus	Spring 2018
+BSTA	500	1069	Reading & Research Biostat	Fu, Rochelle	1-3	By Arrangement	Check SIS	OHSU Campus	Summer 2018
+BSTA	503	1070	Thesis	Fu, Rochelle	1-3	By Arrangement	Check SIS	OHSU Campus	Summer 2018
+BSTA	507	1101	Field Experience	Park, Byung	3-6	By Arrangement	Check SIS	OHSU Campus	Summer 2018
+BSTA	510	1065	Biostatistics Lab	Choi, Dongseok	3	By Arrangement	Check SIS	OHSU Campus	Summer 2018
+BSTA	517	1077	Stat Methods Clinical Trials	Chen, Yiyi	3	OHSU Online	Course meets August 6 - Sept. 7.		Summer 2018
+BSTA	525	2092	Introduction to Biostatistics	Lin, Amber	4	OHSU Online	Course meets 11-weeks		Summer 2018
+BSTA	500	21802	Reading & Research Biostat	Fu, Rochelle	1-3	By arrangement	Check SIS	OHSU Campus	Winter 2019
+BSTA	507	21804	Field Experience	Park, Byung	1-6	By arrangement	Check SIS	OHSU Campus	Winter 2019
+BSTA	510	21805	Biostatistics Lab	Choi, Dongseok	3	By arrangement	Check SIS	OHSU Campus	Winter 2019
+BSTA	512	21806	Linear Models	Nguyen, Thuan	4	M, W	1300-1450	Check SIS	Winter 2019
+BSTA	514	21808	Survival Analysis	Lapidus, Jodi	3	T, R	1715-1830	Check SIS	Winter 2019
+BSTA	522	21809	Statistical Learning/Big Data	Choi, Dongseok	3	T	0900-1145	Check SIS	Winter 2019
+BSTA	525	21811	Intro to Biostatistics	Srikanth, Priya	4	M, W	1400-1550	Check SIS	Winter 2019
+BSTA	551	21810	Mathematical Statistics I	Yanez, David	3	M, W	1030-1200	Check SIS	Winter 2019
+BSTA	612	21807	Linear Models	Nguyen, Thuan	4	M, W	1300-1450	Check SIS	Winter 2019
+UNI	504	21826	Qualitative Methods/Health Pro	Marriott, Lisa	2	T	1500-1640	Check Banweb	Winter 2019

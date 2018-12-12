@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setup}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE)
 library(pdftools)
 library(here)
 library(tabulizer)
@@ -14,28 +14,25 @@ library(tabulizerjars)
 library(stringr)
 library(dplyr)
 
-pdfs <- list.files(here("data"),full.names = TRUE)
+source("R/helper.R")
 
-text_files <- lapply(pdfs, pdf_text)
+```
 
-#tabs <- extract_tables(pdfs[[1]], method = "lattice")
+```{r}
+pdfs <- list.files(here("data"),full.names = TRUE, pattern = ".pdf")
+
 tabs <- lapply(pdfs, extract_tables, method="lattice")
 
+##show first pdf, and first page
 
+tabs[[1]][[1]]
+```
 
-remove_cols <- function(y){
-  cols <- y[2,]
-  y <- y[-c(1,2),]
-  y <- y %>% data.frame() %>% dplyr::select_if(function(x){
-  !all(x=="")})
-  y
-  }
-
-
+```{r}
 tabs <- lapply(tabs, function(z){
+  
   out <- lapply(z, function(q) {
-    
-    
+  
     q <- remove_cols(q)
     
     if(ncol(q)==9){ q <- q[,-6]}
@@ -59,7 +56,6 @@ full_table <- Reduce(rbind, tabs2)
 full_tab <- full_table %>% dplyr::filter(crn != "")
 full_tab <- full_tab %>% tidyr::separate(col=course_number, into=c("department", "course_number"), sep=" ")
 
-
 ```
 
 ```{r}
@@ -72,4 +68,84 @@ full_tab <- full_tab %>% dplyr::filter(!title %in% remove_courses) %>% dplyr::fi
 DT::datatable(full_tab)
 
 write.table(full_tab, "data/full_courses.txt", quote=FALSE, sep="\t", row.names = FALSE)
+```
+
+```{r}
+#get sph courses
+
+pdfs <- list.files(here("data/sph"),full.names = TRUE)
+
+tabs <- lapply(pdfs, extract_tables, method="lattice")
+
+tabs2 <- lapply(tabs, function(z){
+  
+  cols <- z[[1]][2,]
+  cols <- cols[cols!=""]
+
+  
+  out <- lapply(z, function(q) {
+    
+    q <- remove_cols(q)
+    colnames(q) <- cols
+    q <- janitor::clean_names(q)
+    
+    q
+    }
+                
+               )
+})
+
+
+first_eight <- function(x){x <- x[,1:8]
+  x}
+
+tabs3 <- lapply(tabs2, function(y){
+  out <- lapply(y, first_eight)
+  out <- Reduce(rbind, out)
+  out}
+  )
+
+names(tabs3) <- c("Fall 2018", "Spring 2018", "Summer 2018", "Winter 2019")
+
+tabs4 <- lapply(names(tabs3), function(x){
+  out <- tabs3[[x]] %>% dplyr::mutate(quarter = x)
+  out  
+})
+
+psu_table <- Reduce(rbind, tabs4)
+
+psu_table <- psu_table %>% tidyr::separate(col=course_number, into=c("department", "course_number"), sep=" ") %>% rename(instructors=instructor)
+
+remove_depts <- c("HSMP", "EPI", "ESHH", "PHE", "CPH", "")
+
+psu_table <- psu_table %>% filter(!department %in% remove_depts)
+
+psu_table$crn <- as.character(psu_table$crn)
+full_tab$crn <- as.character(full_tab$crn)
+out <- bind_rows(full_tab, psu_table)
+
+write.table(psu_table, "data/psu_courses.txt", quote = FALSE, sep="\t", row.names = FALSE)
+write.table(out, "data/all_psu_ohsu_courses.txt")
+
+DT::datatable(out)
+
+```
+
+# Computational Courses
+
+First Pass: BME, BMI, MATH, CS, EE, BSTA
+
+```{r}
+comp_depts <- c("BME", "BMI", "MATH", "CS", "EE", "BSTA", "NEUS")
+
+out %>% filter(department %in% comp_depts) %>% DT::datatable()
+```
+
+
+# Journal Clubs
+
+```{r}
+jcs <- out %>% filter(grepl("JC",title) | grepl("Journal", title)) 
+
+DT::datatable(jcs)
 ```
