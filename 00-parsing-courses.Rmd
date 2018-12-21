@@ -125,7 +125,7 @@ full_tab$crn <- as.character(full_tab$crn)
 out <- bind_rows(full_tab, psu_table)
 
 write.table(psu_table, "data/psu_courses.txt", quote = FALSE, sep="\t", row.names = FALSE)
-write.table(out, "data/all_psu_ohsu_courses.txt")
+write.table(out, "data/all_psu_ohsu_courses.txt",  quote = FALSE, sep="\t", row.names = FALSE)
 
 DT::datatable(out)
 

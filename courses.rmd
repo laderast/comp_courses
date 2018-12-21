@@ -1,0 +1,19 @@
+---
+title: "Computational Courses"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(DT)
+
+all_file <- readr::read_delim("data/all_psu_ohsu_courses.txt", delim = "\t") %>%
+  dplyr::select(-crn, -credits, -time, -days, -campus, -location)
+```
+
+This is a listing of current computational courses at OHSU and PSU. It has been compiled from the 2018-2019 course lists.
+
+```{r, echo=FALSE}
+DT::datatable(all_file, options=list(paging=FALSE))
+```
+
