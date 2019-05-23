@@ -6,9 +6,37 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(DT)
+#library(googlesheets)
+library(dplyr)
 
-all_file <- readr::read_delim("data/all_psu_ohsu_courses.txt", delim = "\t") %>%
-  dplyr::select(-crn, -credits, -time, -days, -campus, -location)
+all_file <- readr::read_csv("data/courses-at-ohsu.csv") %>%
+  dplyr::filter(computational ==1) %>%
+#  dplyr::select(-crn, -credits, -time, -days, -campus, -location) %>%
+  mutate(department = dplyr::recode(department,BEHN="Behavioral Neuroscience", 
+                                 BME="Biomedical Engineering",
+                                 BMI="Biomedical Informatics",
+                                 BSTA="Biostatistics",
+                                 CANB="Cancer Biology",
+                                 CELL="Cellular Biology",
+                                 CONJ="Conjoint (shared)",
+                                 CS="Computer Science",
+                                 EE="Electrical Engineering",
+                                 MATH="Mathematics",
+                                 MBIM="Molecular Biology and Immunology",
+                                 MGEN="Molecular Genetics",
+                                 MGRD="MGRD",
+                                 MGT="Management",
+                                 MP="Medical Physics",
+                                 NEUS="Neuroscience",
+                                 NUTN="Nutrition",
+                                 PHPH="Physiology & Pharmacology",
+                                 PHPM="Public Health & Preventative Medicine",
+                                 UNI="UNI"))
+
+write.csv(all_file, file="data/courses_with_programs.csv")
+
+
+#test <- googlesheets::gs_url("https://docs.google.com/spreadsheets/d/1RgQZ4MfiE-9cwYSScZRXMUWrj_Z5JcgG89HbZPHg_ec/") %>% gs_read(ws=1)
 ```
 
 This is a listing of current computational courses at OHSU and PSU. It has been compiled from the 2018-2019 course lists.

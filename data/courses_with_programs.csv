@@ -1,0 +1,140 @@
+"","crn","department","course_number","title","instructors","credits","time","days","computational","campus","quarter","location"
+"1",12203,"Behavioral Neuroscience","640-0","Sys/Behavioral Neuroscience","Lattal, Matt","5","TBA","TBA",1,"Portland","Fall 18",NA
+"2",21574,"Behavioral Neuroscience","606-0","JC: Computational/Theoretical NS","Moghaddam\David","1","1500","1630",1,"Portland","Winter 19",NA
+"3",32210,"Biomedical Engineering","610NN-0","Bayesian Data Analysis","Jacobs, Peter","0.5","1300-1400","T",1,"Portland","Spring 18",NA
+"4",11887,"Biomedical Engineering","607-0","Biomedical Engineering Seminar","Nellore\Heiser","0","1200-1300","F",1,"Portland","Fall 18",NA
+"5",21455,"Biomedical Engineering","607-0","Biomedical Engineering Seminar","Nellore\Heiser","0","1100-1200","F",1,"Portland","Winter 19",NA
+"6",22040,"Biomedical Engineering","640-0","Fluid Mechanics/Biotransport","Rugonyi, Sandra","3","1230-1400","T,Th",1,"Portland","Winter 19",NA
+"7",22149,"Biomedical Engineering","680-0","Digital Signal Processing","Kain\Jacobs","3","1430-1600","T,Th",1,"Portland","Winter 19",NA
+"8",22050,"Biomedical Engineering","690-0","Topics in Nanomedicine","Yantasee\Vu","3","1000-1130","M,W",1,"Portland","Winter 19",NA
+"9",12554,"Biomedical Engineering","605-0","Readings in Biomedical Eng","Hinds, Monica","1","1030-1130","F",1,"Portland","Fall 18",NA
+"10",31416,"Biomedical Informatics","510-DL","Intro to Biomed Informatics","Hersh, Bill","3","Online","Online",1,"Online","Spring 18",NA
+"11",31417,"Biomedical Informatics","512-DL","Clinical Information Systems","Mohan, Vishnu","3","Online","Online",1,"Online","Spring 18",NA
+"12",31425,"Biomedical Informatics","546-0","Software Engineering","Cohen, Aaron","3","0900-1025","W, F",1,"Portland","Spring 18",NA
+"13",32010,"Biomedical Informatics","552B-0","Research Methods/Bioinformatic","Boudreau, Eilis","2","1030-1250","F",1,"Portland","Spring 18",NA
+"14",31428,"Biomedical Informatics","553-0","Readings in Bioinformatics","Karstens, Lisa","1","1230-1330","T",1,"Portland","Spring 18",NA
+"15",31540,"Biomedical Informatics","610-DL","Intro to Biomed Informatics","Hersh, Bill","3","Online","Online",1,"Online","Spring 18",NA
+"16",31549,"Biomedical Informatics","646-0","Software Engineering","Cohen, Aaron","3","0900-1025","W, F",1,"Portland","Spring 18",NA
+"17",32011,"Biomedical Informatics","652B-0","Research Methods/Bioinformatic","Boudreau, Eilis","2","1030-1250","F",1,"Portland","Spring 18",NA
+"18",31567,"Biomedical Informatics","653-0","Readings in Bioinformatics","Karstens, Lisa","1","1230-1330","T",1,"Portland","Spring 18",NA
+"19",11641,"Biomedical Informatics","510-DL","Intro to Biomed Informatics","Hersh, Bill","3","Online","Online",1,"Online","Fall 18",NA
+"20",11642,"Biomedical Informatics","512-DL","Clinical Information Systems","Mohan, Vishnu","3","Online","Online",1,"Online","Fall 18",NA
+"21",11648,"Biomedical Informatics","540-DL","Comp Science/Prog Clin Inform","Hribar, Michelle","3","Online","Online",1,"Online","Fall 18",NA
+"22",11649,"Biomedical Informatics","550-0","Bio/Comp Biomed I: Algorithms","Zheng, Christina","4","1200-1330","M,W",1,"Portland","Fall 18",NA
+"23",11650,"Biomedical Informatics","559-0","Computational Genetics","McWeeney, Shannon","3","1030-1155","T",1,"Portland","Fall 18",NA
+"24",11651,"Biomedical Informatics","565-0","Bioinfo Programming/Scripting","Mooney, Michael","3","0900-1025","T, Th",1,"Portland","Fall 18",NA
+"25",11745,"Biomedical Informatics","610-DL","Intro to Biomed Informatics","Hersh, Bill","3","Online","Online",1,"Online","Fall 18",NA
+"26",11746,"Biomedical Informatics","612-DL","Clinical Information Systems","Mohan, Vishnu","3","Online","Online",1,"Online","Fall 18",NA
+"27",11752,"Biomedical Informatics","650-0","Bio/Comp Biomed I: Algorithms","Zheng, Christina","4","1200-1330","M,W",1,"Portland","Fall 18",NA
+"28",11777,"Biomedical Informatics","659-0","Computational Genetics","McWeeney, Shannon","3","1030-1155","T",1,"Portland","Fall 18",NA
+"29",11778,"Biomedical Informatics","665-0","Bioinfo Programming/Scripting","Mooney, Michael","3","0900-1025","T, Th",1,"Portland","Fall 18",NA
+"30",1268,"Biomedical Informatics","510-DL","Intro to Biomed Informatics","Hersh, Bill","3","Online","Online",1,"Online","Summer 18",NA
+"31",2085,"Biomedical Informatics","518-DL","Project Management","McCormack, James","3","Online","Online",1,"Online","Summer 18",NA
+"32",1763,"Biomedical Informatics","548-HY","Human Compu Interaction Biomed","Hribar\Chiang","3","0900-1600","Th-M",1,"Portland","Summer 18",NA
+"33",1446,"Biomedical Informatics","561-HY","Qualitative Research Methods","Ash\Valerius","3","0900-1400","T-F",1,"Portland","Summer 18",NA
+"34",1902,"Biomedical Informatics","569-HY","Data Analytics","Laderas\McWeeney","3","0900-1400","M-Th",1,"Portland","Summer 18",NA
+"35",2087,"Biomedical Informatics","618-DL","Project Management","McCormack, James","3","Online","Online",1,"Online","Summer 18",NA
+"36",1764,"Biomedical Informatics","648-HY","Human Compu Interaction Biomed","Hribar\Chiang","3","0900-1600","Th-M",1,"Portland","Summer 18",NA
+"37",1447,"Biomedical Informatics","661-HY","Qualitative Research Methods","Ash\Valerius","3","0900-1400","T-F",1,"Portland","Summer 18",NA
+"38",1903,"Biomedical Informatics","669-HY","Data Analytics","Laderas\McWeeney","3","0900-1400","M-Th",1,"Portland","Summer 18",NA
+"39",21360,"Biomedical Informatics","510-DL","Intro to Biomed Informatics","Hersh, Bill","3","Online","Online",1,"Online","Winter 19",NA
+"40",21925,"Biomedical Informatics","516-DL","Standards/Interoperability HC","Orwoll, Benjamin","3","Online","Online",1,"Online","Winter 19",NA
+"41",21361,"Biomedical Informatics","518-DL","Project Management","McCormack, James","3","Online","Online",1,"Online","Winter 19",NA
+"42",21733,"Biomedical Informatics","535-0","Mgmt & Processing Large Data","Mooney\Zheng","3","1300-1430","T,F",1,"Portland","Winter 19",NA
+"43",21364,"Biomedical Informatics","544-DL","Databases","Fletcher, Justin","3","Online","Online",1,"Online","Winter 19",NA
+"44",21365,"Biomedical Informatics","551-0","BCB II: Statistical Methods","McWeeney, Shannon","4","0900-1020","T,Th",1,"Portland","Winter 19",NA
+"45",21616,"Biomedical Informatics","552A-0","Research Methods/Bioinformatic","Boudreau, Eilis","1-2","0930-1155","F",1,"Portland","Winter 19",NA
+"46",21734,"Biomedical Informatics","635-0","Mgmt & Processing Large Data","Mooney\Zheng","3","1300-1430","T,F",1,"Portland","Winter 19",NA
+"47",21457,"Biomedical Informatics","651-0","BCB II: Statistical Methods","McWeeney, Shannon","4","0900-1020","T,Th",1,"Portland","Winter 19",NA
+"48",21617,"Biomedical Informatics","652A-0","Research Methods/Bioinformatic","Boudreau, Eilis","1-2","0930-1155","F",1,"Portland","Winter 19",NA
+"49",11059,"Biostatistics","510","Biostatistics Lab","Choi, Dongseok","3","Check SIS","By arrangement",1,NA,"Fall 2018","OHSU Campus"
+"50",11075,"Biostatistics","511","Est/Hypo Test Applied Biostat","Nguyen, Thuan","4","1300-1450","M, W",1,NA,"Fall 2018","Check SIS"
+"51",11060,"Biostatistics","515","Data Management-Analysis SAS","Nguyen, Thuan","3","1530-1810","T",1,NA,"Fall 2018","Check SIS"
+"52",11083,"Biostatistics","519","Appl Longitudinal Data Analysi","Fu, Rochelle","3","1500-1750","M",1,NA,"Fall 2018","Check SIS"
+"53",11061,"Biostatistics","550","Introduction to Probability","Niederhausen, Meike","3","1030-1200","M, W",1,NA,"Fall 2018","Check SIS"
+"54",11147,"Biostatistics","525","Intro to Biostatistics","Srikanth, Priya","4","Check SIS","OHSU Online",1,NA,"Fall 2018","OHSU Campus"
+"55",11062,"Biostatistics","611","Est/Hypo Test Applied Biostat","Nguyen, Thuan","4","1300-1450","M, W",1,NA,"Fall 2018","Check SIS"
+"56",31102,"Biostatistics","510-0","Biostatistics Lab","Choi, Dongseok","3","Arrange by",NA,1,NA,NA,NA
+"57",31103,"Biostatistics","513-0","Categorical Data Analysis","Chen, Yiyi","4","1300-1450","M,W",1,NA,"Spring 2018","Check SIS"
+"58",31126,"Biostatistics","516-0","Design Analysis of Surveys","Nguyen, Thuan","3","1300-1550","T",1,NA,"Spring 2018","Check SIS"
+"59",32187,"Biostatistics","521-0","Bayesian Methods for Data Analysis","Fu, Rochelle","3","1500-1750","M",1,NA,"Spring 2018","Check SIS"
+"60",31159,"Biostatistics","523-0","Design of Experiments","Park, Byung","3","0830-1130","R",1,NA,"Spring 2018","Check SIS"
+"61",31104,"Biostatistics","552-0","Mathematical Statistics II","Minnier, Jessica","3","1000-1130","M,W",1,NA,"Spring 2018","Check SIS"
+"62",31105,"Biostatistics","613-0","Categorical Data Analysis","Chen, Yiyi","4","1300-1450","M,W",1,NA,"Spring 2018","Check SIS"
+"63",1069,"Biostatistics","500","Reading & Research Biostat","Fu, Rochelle","1-3","Check SIS","By Arrangement",1,NA,"Summer 2018","OHSU Campus"
+"64",1065,"Biostatistics","510","Biostatistics Lab","Choi, Dongseok","3","Check SIS","By Arrangement",1,NA,"Summer 2018","OHSU Campus"
+"65",1077,"Biostatistics","517","Stat Methods Clinical Trials","Chen, Yiyi","3","Course meets August 6 - Sept. 7.","OHSU Online",1,NA,"Summer 2018",NA
+"66",2092,"Biostatistics","525","Introduction to Biostatistics","Lin, Amber","4","Course meets 11-weeks","OHSU Online",1,NA,"Summer 2018",NA
+"67",21802,"Biostatistics","500","Reading & Research Biostat","Fu, Rochelle","1-3","Check SIS","By arrangement",1,NA,"Winter 2019","OHSU Campus"
+"68",21805,"Biostatistics","510","Biostatistics Lab","Choi, Dongseok","3","Check SIS","By arrangement",1,NA,"Winter 2019","OHSU Campus"
+"69",21806,"Biostatistics","512","Linear Models","Nguyen, Thuan","4","1300-1450","M, W",1,NA,"Winter 2019","Check SIS"
+"70",21808,"Biostatistics","514","Survival Analysis","Lapidus, Jodi","3","1715-1830","T, R",1,NA,"Winter 2019","Check SIS"
+"71",21809,"Biostatistics","522","Statistical Learning/Big Data","Choi, Dongseok","3","0900-1145","T",1,NA,"Winter 2019","Check SIS"
+"72",21810,"Biostatistics","551","Mathematical Statistics I","Yanez, David","3","1030-1200","M, W",1,NA,"Winter 2019","Check SIS"
+"73",21807,"Biostatistics","612","Linear Models","Nguyen, Thuan","4","1300-1450","M, W",1,NA,"Winter 2019","Check SIS"
+"74",2089,"Cancer Biology","610NN-0","Secret Life non-coding RNAs","Anand\Thayer\Espinosa","0.5","1000-1200","T-Th",1,"Portland","Summer 18",NA
+"75",20958,"Cancer Biology","606-0","Mechanisms/Cancer Jrl Club","Qian\Agarwal","1","1200-1255","T",1,"Portland","Winter 19",NA
+"76",21681,"Cancer Biology","606A-0","Tumor Microenvironment JC","Lund, Amanda","1","0900-0955","W",1,"Portland","Winter 19",NA
+"77",20959,"Cancer Biology","607-0","Cancer Biology Seminar Series","Oshimori\Sherman","1","1600-1700","M",1,"Portland","Winter 19",NA
+"78",21703,"Cancer Biology","610NN-0","Intro Single Cell 'Omics Data","Adey, Andrew","0.5","1000-1200","M,W",1,"Portland","Winter 19",NA
+"79",2091,"Cellular Biology","610NN-0","Secret Life Non-Coding RNAs","Anand\Thayer\Espinosa","0.5","1000-1200","T-Th",1,"Portland","Summer 18",NA
+"80",21702,"Cellular Biology","610NN-0","Intro Single Cell 'Omics Data","Adey, Andrew","0.5","1000-1200","M,W",1,"Portland","Winter 19",NA
+"81",31652,"Conjoint (shared)","668-0","Mol. Biophys & Exp. Bioinf.","Shinde\Farrens","3","1030-1125","M,W,F",1,"Portland","Spring 18",NA
+"82",31653,"Conjoint (shared)","669-0","Principles of Chemical Biology","Valiyaveetil\Xiao","3","1600-1700","M,W,F",1,"Portland","Spring 18",NA
+"83",11522,"Conjoint (shared)","661-0","Structure & Funct. of Bio Mol.","Farrens\Shinde","3","1030-1200","M-Th",1,"Portland","Fall 18",NA
+"84",11523,"Conjoint (shared)","662-0","Genetic Mechanisms","Dai\Moore","3","0830-1000","M-Th",1,"Portland","Fall 18",NA
+"85",12199,"Conjoint (shared)","663-0","Bioregulation","Impey\Heiser","3","1030-1200","M-Th",1,"Portland","Fall 18",NA
+"86",12200,"Conjoint (shared)","664-0","Molecular Cell Biology","Musil\Farrens","3","0830-1000","M-Th",1,"Portland","Fall 18",NA
+"87",11969,"Conjoint (shared)","670-0","Foundations/Measurement Scienc","Nan\Chang","3","1630-1800","M, W",1,"Portland","Fall 18",NA
+"88",12201,"Conjoint (shared)","671-0","Analysis/Quantitative Bioscien","Ellrott\Zuckerman","3","1500-1625","M, W",1,"Portland","Fall 18",NA
+"89",2040,"Conjoint (shared)","620-0","Introd Biostatistics/Basic Sci","Hill, Alison","3","TBA","T, Th",1,"Portland","Summer 18",NA
+"90",32039,"Computer Science","559-0","Machine Learning","Song, Xubo","3","1400-1530","T, Th",1,"Portland","Spring 18",NA
+"91",32176,"Computer Science","631-0","Princ/Prac Data Visualization","Bedrick\Wirz","3","1200-1330","M,W",1,"Portland","Spring 18",NA
+"92",32040,"Computer Science","659-0","Machine Learning","Song, Xubo","3","1400-1530","T, Th",1,"Portland","Spring 18",NA
+"93",12126,"Computer Science","555-0","Analyzing Sequences","Asgari, Meysam","3","1600-1730","T, Th",1,"Portland","Fall 18",NA
+"94",12363,"Computer Science","560-0","Artificial Intelligence","Heeman, Peter","3","1600-1730","M,W",1,"Portland","Fall 18",NA
+"95",12185,"Computer Science","623-0","Deep Learning","Asgari, Meysam","3","1400-1530","M,W",1,"Portland","Fall 18",NA
+"96",12127,"Computer Science","655-0","Analyzing Sequences","Asgari, Meysam","3","1600-1730","T,Th",1,"Portland","Fall 18",NA
+"97",12364,"Computer Science","660-0","Artificial Intelligence","Heeman, Peter","3","1600-1730","M,W",1,"Portland","Fall 18",NA
+"98",2042,"Computer Science","532-0","Analy & Design of Algorithms","Heeman, Peter","3","1600-1730","M,W",1,"Portland","Summer 18",NA
+"99",2043,"Computer Science","632-0","Analy & Design of Algorithms","Heeman, Peter","3","1600-1730","M,W,",1,"Portland","Summer 18",NA
+"100",21918,"Computer Science","562-0","Natural Language Processing","Bedrick, Steven","3","1615-1745","T,Th",1,"Portland","Winter 19",NA
+"101",22051,"Computer Science","606-XS","Advanced Machine Learning","Song, Xubo","2","1200-1330","M,W",1,"Portland","Winter 19",NA
+"102",21919,"Computer Science","662-0","Natural Language Processing","Bedrick, Steven","3","1615-1745","T,Th",1,"Portland","Winter 19",NA
+"103",21916,"Computer Science","692-0","Research Ethics for CS & EE","Dolata, Jill","1","1300-1400","Th",1,"Portland","Winter 19",NA
+"104",32041,"Electrical Engineering","559-0","Machine Learning","Song, Xubo","3","1400-1530","T, Th",1,"Portland","Spring 18",NA
+"105",32177,"Electrical Engineering","658-0","Speech Signal Processing","Kain, Alexander","3","1400-1530","M,W",1,"Portland","Spring 18",NA
+"106",32042,"Electrical Engineering","659-0","Machine Learning","Song, Xubo","3","1400-1530","T, Th",1,"Portland","Spring 18",NA
+"107",12128,"Electrical Engineering","555-0","Analyzing Sequences","Asgari, Meysam","3","1600-1730","T,Th",1,"Portland","Fall 18",NA
+"108",12186,"Electrical Engineering","623-0","Deep Learning","Asgari, Meysam","3","1400-1530","M,W",1,"Portland","Fall 18",NA
+"109",12129,"Electrical Engineering","655-0","Analyzing Sequences","Asgari, Meysam","3","1600-1730","T,Th",1,"Portland","Fall 18",NA
+"110",22052,"Electrical Engineering","606-XS","Advanced Machine Learning","Song, Xubo","2","1200-1330","M,W",1,"Portland","Winter 19",NA
+"111",21920,"Electrical Engineering","682-0","Digital Signal Processing","Kain\Jacobs","3","1430-1600","T,Th",1,"Portland","Winter 19",NA
+"112",21917,"Electrical Engineering","692-0","Research Ethics for CS & EE","Dolata, Jill","1","1300-1400","Th",1,"Portland","Winter 19",NA
+"113",12044,"Mathematics","530-0","Probability and Stat Inference","Hill, Alison","3","1400-1530","T,Th",1,"Portland","Fall 18",NA
+"114",12045,"Mathematics","630-0","Probability and Stat Inference","Hill, Alison","3","1400-1530","T,Th",1,"Portland","Fall 18",NA
+"115",20981,"Molecular Biology and Immunology","610-0","Introduction to Immunology","Lind, Evan","2","1500-1700","Th",1,"Portland","Winter 19",NA
+"116",21556,"Molecular Genetics","610-0","Essentials Molecular & Med Gen","Ralle, Martina","2","1500-1600","T,Th",1,"Portland","Winter 19",NA
+"117",22039,"Molecular Genetics","610NN-0","Intro Single Cell 'Omics Data","Adey, Andrew","0.5","1000-1200","M, W",1,"Portland","Winter 19",NA
+"118",32215,"MGRD","627-0","Research Methods-Data/Info Literacy","Wyatt, Letisha","3","1430-1600","M, W",1,"Portland","Spring 18",NA
+"119",31645,"Management","572-HY","Financial Mgmt in Healthcare","Granholm, Gudrun","4","Varies","Sat",1,"Portland","Spring 18",NA
+"120",11879,"Management","519-HY","Project Mgmt in Healthcare","Sakaguchi, Ronald","4","TBA","TBA",1,"Portland","Fall 18",NA
+"121",11880,"Management","561-HY","Financial Accounting for H/C","Granholm, Gudrun","4","TBA","TBA",1,"Portland","Fall 18",NA
+"122",32058,"Medical Physics","507-0","Seminar: Diagnostic Imaging","Griglock\DeWeese","1","1510-1600","T",1,"Portland","Spring 18",NA
+"123",32065,"Medical Physics","537-0","Shielding/Medical Physicists","Tack\Griglock","3","0900-1200","W",1,"Portland","Spring 18",NA
+"124",32060,"Medical Physics","542-0","Diagnostic Imaging Physics II","Griglock\DeWeese","3","1345-1500","T, Th",1,"Portland","Spring 18",NA
+"125",21650,"Medical Physics","541-0","Diagnostic Imaging Physics I","DeWeese\Griglock","3","1400-1515","T,Th",1,"Portland","Winter 19",NA
+"126",21696,"Medical Physics","544-0","Nuclear Medicine Imaging","Griglock, Thomas","3","1300-1600","W",1,"Portland","Winter 19",NA
+"127",21651,"Medical Physics","561-0","Radiation Therapy Physics I","Pugachev, Andrei","3","1530-1700","M,W",1,"Portland","Winter 19",NA
+"128",21697,"Medical Physics","564-0","Appl'd Rad Therapy Phys Lab II","Pugachev, Andrei","3","TBA","TBA",1,"Portland","Winter 19",NA
+"129",21652,"Medical Physics","570-0","Rad Biology/Medical Physicists","DeWeese, Lindsay","4","1630-1830","T",1,"Portland","Winter 19",NA
+"130",12028,"Neuroscience","627-0","Systems Neuroscience","von Gersdorff\David","4","TBA","TBA",1,"Portland","Fall 18",NA
+"131",21176,"Neuroscience","606-0","Biophysics Journal Club","Trussell, Laurence","1","0900-1000","Th",1,"Portland","Winter 19",NA
+"132",32184,"Nutrition","533-0","Nutritional Genomics","Hansen, Joyanna","2","1300-1500","M",1,"Portland","Spring 18",NA
+"133",12390,"Nutrition","535-0","Oncology Nutrition","McGuire, Julie","2","1530-1730","M",1,"Portland","Fall 18",NA
+"134",12391,"Nutrition","635-0","Oncology Nutrition","Stadler, Diane","2","1530-1730","M",1,"Portland","Fall 18",NA
+"135",11538,"Physiology & Pharmacology","617-0","Pharmacokinetics","Duvoisin, Robert","2","1100-1200","T Th",1,"Portland","Fall 18",NA
+"136",21927,"Physiology & Pharmacology","617-0","Pharmacokinetics","Scanlan, Tom","2","1100-1200","T,Th",1,"Portland","Winter 19",NA
+"137",31132,"Public Health & Preventative Medicine","524-0","Intro to Biostatistics","Srikanth, Priya","4","0930-1120","T,R",1,NA,"Spring 2018","Check SIS"
+"138",11173,"UNI","504","Qualitative Methods/Health Pro","Marriott, Lisa","2","1500-1640","W",1,NA,"Fall 2018","Check Banweb"
+"139",21826,"UNI","504","Qualitative Methods/Health Pro","Marriott, Lisa","2","1500-1640","T",1,NA,"Winter 2019","Check Banweb"

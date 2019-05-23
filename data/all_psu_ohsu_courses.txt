@@ -1,0 +1,399 @@
+crn	department	course_number	title	instructors	credits	time	days	campus	quarter	location
+31885	BCMB	605A-0	Protein Structure/Function JC	Shinde\Farrens	1	TBA	TBA	Portland	Spring 18	NA
+31887	BCMB	607A-0	Department Seminar Series	Hoatlin, Maureen	1	1200-1300	M,T	Portland	Spring 18	NA
+31888	BCMB	619-0	Topics Biochem/Molecular Biol	Shinde\Farrens	1	1200-1330	Th	Portland	Spring 18	NA
+32027	BEHN	606-0	JC-Qual Exam Prep	Finn\Ford	1	1400-1550	W	Portland	Spring 18	NA
+31740	BEHN	607A-0	Issues Behavior Neuroscience	Neve, Kim	1	1600-1700	W	Portland	Spring 18	NA
+32181	BEHN	620-0	Neurochem Relevant Behavior	Moghaddam, Bita	1	1600-1750	T, Th, F	Portland	Spring 18	NA
+31903	BME	607-0	Biomedical Engineering Seminar	Nellore\Heiser	0	1100-1200	F	Portland	Spring 18	NA
+32024	BME	608-0	Grant Writing & Qualifier Prep	Hinds\McCarty	1	TBA	M	Portland	Spring 18	NA
+32210	BME	610NN-0	Bayesian Data Analysis	Jacobs, Peter	0.5	1300-1400	T	Portland	Spring 18	NA
+32004	BMI	505F-0	Reading and Conference-Fellows	Gorman\McWeeney	1-5	1245-1345	Th	Portland	Spring 18	NA
+32006	BMI	507-DL	Seminar: Analytics/Healthcare	Kassakian\Pandit\Edinger	3	Online	Online	Online	Spring 18	NA
+31411	BMI	509-DL5	Practicum	Geissal, Erik	3	Online	Online	Online	Spring 18	NA
+31416	BMI	510-DL	Intro to Biomed Informatics	Hersh, Bill	3	Online	Online	Online	Spring 18	NA
+31417	BMI	512-DL	Clinical Information Systems	Mohan, Vishnu	3	Online	Online	Online	Spring 18	NA
+31422	BMI	517-DL	Organization Behavior & Mgmt	Valerius, Joanne	3	Online	Online	Online	Spring 18	NA
+31423	BMI	537-DL	Healthcare Quality	Dorr, David	3	Online	Online	Online	Spring 18	NA
+31425	BMI	546-0	Software Engineering	Cohen, Aaron	3	0900-1025	W, F	Portland	Spring 18	NA
+32010	BMI	552B-0	Research Methods/Bioinformatic	Boudreau, Eilis	2	1030-1250	F	Portland	Spring 18	NA
+31428	BMI	553-0	Readings in Bioinformatics	Karstens, Lisa	1	1230-1330	T	Portland	Spring 18	NA
+32008	BMI	576-DL	Ethical/Legal/Social Issue BMI	Valerius, Joanne	3	Online	Online	Online	Spring 18	NA
+32005	BMI	605F-0	Reading and Conference-Fellows	Gorman\McWeeney	1-6	1245-1345	Th	Portland	Spring 18	NA
+32007	BMI	607-DL	Seminar: Analytics/Healthcare	Kassakian\Pandit\Edinger	3	Online	Online	Online	Spring 18	NA
+31540	BMI	610-DL	Intro to Biomed Informatics	Hersh, Bill	3	Online	Online	Online	Spring 18	NA
+31541	BMI	612-DL	Clinical Information Systems	Mohan, Vishnu	3	Online	Online	Online	Spring 18	NA
+31546	BMI	617-DL	Organization Behavior & Mgmt	Valerius, Joanne	3	Online	Online	Online	Spring 18	NA
+31547	BMI	637-DL	Healthcare Quality	Dorr, David	3	Online	Online	Online	Spring 18	NA
+31549	BMI	646-0	Software Engineering	Cohen, Aaron	3	0900-1025	W, F	Portland	Spring 18	NA
+32011	BMI	652B-0	Research Methods/Bioinformatic	Boudreau, Eilis	2	1030-1250	F	Portland	Spring 18	NA
+31567	BMI	653-0	Readings in Bioinformatics	Karstens, Lisa	1	1230-1330	T	Portland	Spring 18	NA
+32009	BMI	676-DL	Ethical/Legal/Social Issue BMI	Valerius, Joanne	3	Online	Online	Online	Spring 18	NA
+31912	CANB	606-0	Mechanisms/Cancer Jrl Club	Dai\Qian	1-8	1200-1300	Th	Portland	Spring 18	NA
+32090	CANB	606A-0	Tumor Microenvironment JC	Lund, Amanda	1	0900-1000	W	Portland	Spring 18	NA
+31913	CANB	607-0	Cancer Biology Seminar Series	Lund\Oshimori	1	1600-1700	M	Portland	Spring 18	NA
+31914	CANB	616-0	Adv Topics: Cancer Biology	Heiser\Korkola\Alumkal	4	1330-1455	M,W,F	Portland	Spring 18	NA
+31693	CELL	606-0	Cell & Biology Journal Club	Nechiporuk, Alex	1	0900-1000	T	Portland	Spring 18	NA
+31695	CELL	607A-0	Departmental Seminar Series	Lund\Oshimori	1	1600-1700	M	Portland	Spring 18	NA
+31696	CELL	616-0	Adv Topics: Cancer Biology	Heiser\Korkola\Alumkal	4	1330-1455	M,W,F	Portland	Spring 18	NA
+31647	CONJ	601-0	Research PMCB	Duvoisin, Robert	1-16	TBA	TBA	Portland	Spring 18	NA
+32128	CONJ	601-MD	MD/PhD Research	Jacoby, David	1-16	TBA	TBA	Portland	Spring 18	NA
+32055	CONJ	606CL-0	CLSB Journal Club	Beatty, Kimberly	1	1500-1600	M	Portland	Spring 18	NA
+32084	CONJ	606MD-0	MD/PhD Journal Club	Jacoby, David	.5	1200-1300	W	Portland	Spring 18	NA
+32139	CONJ	607-0	Ethics Seminar	Williams, John	.5	1700-1800	T	Portland	Spring 18	NA
+32056	RCR	001-0	Ethics Seminar Post Docs	Williams, John	.5	1700-1800	T	Portland	Spring 18	NA
+31649	CONJ	607E-0	PMCB Seminar	Duvoisin, Robert	1	1200-1330	M	Portland	Spring 18	NA
+31650	CONJ	665-0	Devl/Differentiation & Disease	Qian\Courtneidge	3	1015-1145	T, Th	Portland	Spring 18	NA
+31651	CONJ	667-0	Organ Systems	McCormick\Morgans	3	0830-0950	T, Th	Portland	Spring 18	NA
+31652	CONJ	668-0	Mol. Biophys & Exp. Bioinf.	Shinde\Farrens	3	1030-1125	M,W,F	Portland	Spring 18	NA
+31653	CONJ	669-0	Principles of Chemical Biology	Valiyaveetil\Xiao	3	1600-1700	M,W,F	Portland	Spring 18	NA
+32039	CS	559-0	Machine Learning	Song, Xubo	3	1400-1530	T, Th	Portland	Spring 18	NA
+32176	CS	631-0	Princ/Prac Data Visualization	Bedrick\Wirz	3	1200-1330	M,W	Portland	Spring 18	NA
+32040	CS	659-0	Machine Learning	Song, Xubo	3	1400-1530	T, Th	Portland	Spring 18	NA
+31577	EBS	501-HMS	M.S. Nonthesis Research	Simon, Holly	1-16	TBA	TBA	Portland	Spring 18	NA
+32041	EE	559-0	Machine Learning	Song, Xubo	3	1400-1530	T, Th	Portland	Spring 18	NA
+32177	EE	658-0	Speech Signal Processing	Kain, Alexander	3	1400-1530	M,W	Portland	Spring 18	NA
+32042	EE	659-0	Machine Learning	Song, Xubo	3	1400-1530	T, Th	Portland	Spring 18	NA
+31677	MBIM	605C-0	Immunology Journal Club	Davey, Michael	1	0830-0930	Th	Portland	Spring 18	NA
+31678	MBIM	605E-0	Virology Jrnl Club-Primate Ctr	Streblow, Daniel	1	1200-1255	T	Portland	Spring 18	NA
+31679	MBIM	605F-0	Micro/Path Mole/Genetics JC	Purdy, Georgiana	2	1600-1700	W	Portland	Spring 18	NA
+31680	MBIM	607-0	Departmental Seminar Series	Lind, Evan	1	1200-1300	M	Portland	Spring 18	NA
+31682	MBIM	612-0	Advanced Immunology	Nolz, Jeffrey	4	1400-1600	W,F	Portland	Spring 18	NA
+31894	MGEN	605E-0	Molecular/Medical Genetics JC	Moore, Stephen	1-8	1015-1115	Th	Portland	Spring 18	NA
+31895	MGEN	605F-0	Mechanisms/Cancer Jrnl Club	Dai\Lopez	1-8	1200-1300	T	Portland	Spring 18	NA
+31896	MGEN	607A-0	Departmental Seminar Series	Gillingham, Melanie	1	1200-1300	M	Portland	Spring 18	NA
+31898	MGEN	611-0	Departmental Grand Rounds	Zonana, Jon	1	0900-1000	Th	Portland	Spring 18	NA
+32215	MGRD	627-0	Research Methods-Data/Info Literacy	Wyatt, Letisha	3	1430-1600	M, W	Portland	Spring 18	NA
+31644	MGT	520-HY	Becoming an Effective Manager	Steckler\Huntzicker	4	1600-2100	F	Portland	Spring 18	NA
+32038	MGT	537-0	Managing in the Real World	Huntzicker, James	1	Online	Online	Online	Spring 18	NA
+31642	MGT	554-HY	Capstone Proj in Healthcare II	Sakaguchi\Kinder	3	1600-2100	F	Portland	Spring 18	NA
+31643	MGT	563-HY	Reg & Legislation of H/C Del	Kinder\Bonder	4	0915-1400	Sat	Portland	Spring 18	NA
+31645	MGT	572-HY	Financial Mgmt in Healthcare	Granholm, Gudrun	4	Varies	Sat	Portland	Spring 18	NA
+32058	MP	507-0	Seminar: Diagnostic Imaging	Griglock\DeWeese	1	1510-1600	T	Portland	Spring 18	NA
+32059	MP	535-0	Rad Shield/External Dosimetry	Voss, Shannon	4	1600-1800	M,W	Portland	Spring 18	NA
+32065	MP	537-0	Shielding/Medical Physicists	Tack\Griglock	3	0900-1200	W	Portland	Spring 18	NA
+32060	MP	542-0	Diagnostic Imaging Physics II	Griglock\DeWeese	3	1345-1500	T, Th	Portland	Spring 18	NA
+32061	MP	562-0	Radiation Therapy Physics II	Tanyi, James	3	1000-1130	M	Portland	Spring 18	NA
+31867	NEUS	606-0	Cell Neuroscience JC	Westbrook, Gary	1	0900-1000	T	Portland	Spring 18	NA
+31868	NEUS	606-01	OHRC Journal Club	Brigande, John	1	1600-1700	T	Portland	Spring 18	NA
+31869	NEUS	606-02	Glial Cell Journal Club	Robinson, Fred	1	1005-1100	T	Portland	Spring 18	NA
+31870	NEUS	606-03	Outreach Journal Club	Westbrook, Gary	1	TBA	TBA	Portland	Spring 18	NA
+32073	NEUS	606-05	Systems JC	David, Stephen	1	TBA	TBA	Portland	Spring 18	NA
+32116	NEUS	606-06	EM Study Group JC	Gouaux, Eric	1	1200-1400	W	Portland	Spring 18	NA
+31872	NEUS	607-0	Vollum Seminar: Neuroscience	Nicolson, Teresa	2	0900-0955	Th	Portland	Spring 18	NA
+31874	NEUS	626-0	Neurobiology of Disease	Unni, Vivek	3	1000-1130	T, Th	Portland	Spring 18	NA
+32219	NEUS	641-0	G-Protein Coupled Receptors	Williams, John	2	1500-1700	W	Portland	Spring 18	NA
+31315	NUTN	504-0	Supervised Practice Rotation	Jackson, Alexandra	6	0800-1630	T-F	Portland	Spring 18	NA
+31318	NUTN	512-0	Adv Path/Medical Nutn Therapy	McGuire, Julie	3	0900-1200	M	Portland	Spring 18	NA
+31319	NUTN	515-0	Case Studies/Adv Med Nutn Ther	Pavlinac, Jessie	2	TBA	TBA	Portland	Spring 18	NA
+32185	NUTN	516A-0	Nutrition Physical Exam	McGuire, Julie	2	1000-1200	T	Portland	Spring 18	NA
+32186	NUTN	516B-0	Nutrition Physical Exam Lab	McGuire, Julie	1	TBA	TBA	Portland	Spring 18	NA
+32057	NUTN	528-0	I-CAN Nutrition	McGuire, Julie	1	Varies	Varies	Portland	Spring 18	NA
+32184	NUTN	533-0	Nutritional Genomics	Hansen, Joyanna	2	1300-1500	M	Portland	Spring 18	NA
+32216	PHPH	523-0	Overview/Development Prog Hlth/Disease	Maloyan\Thornburg\Boone-Heinonen	1	1330-1430	T	Portland	Spring 18	NA
+31927	PHPH	606-0	PHPH Journal Club	Cohen, Michael	1	1600-1700	T	Portland	Spring 18	NA
+32018	PHPH	606-01	Neuro/Behav JC	Kelly, Martin	1	1030-1130	M	Portland	Spring 18	NA
+31928	PHPH	607-0	Departmental Seminar Series	Duvoisin, Robert	1	1600-1700	Th	Portland	Spring 18	NA
+32217	PHPH	623-0	Overview/Development Prog Hlth/Disease	Maloyan\Thornburg\Boone-Heinonen	1	1330-1430	T	Portland	Spring 18	NA
+32104	PHPH	640-0	Professional Develop Fund	Jacoby, David	1	1500-1630	T	Portland	Spring 18	NA
+11546	BCMB	605A-0	Protein/Structure/Function JC	Shinde\Farrens	1	1600-1700	W	Portland	Fall 18	NA
+11548	BCMB	607A-0	Department Seminar Series	Hoatlin, Maureen	1	1200-1300	M	Portland	Fall 18	NA
+12556	BEHN	610NN-0	Resch Neurobiology/Addiction	Ozburn\Cuzon Carlson	0.5	TBA	TBA	Portland	Fall 18	NA
+12202	BEHN	624-0	Neurophysiology/Behavior	Allen\Heinricher	3			Portland	Fall 18	NA
+12203	BEHN	640-0	Sys/Behavioral Neuroscience	Lattal, Matt	5	TBA	TBA	Portland	Fall 18	NA
+12554	BME-605-0	NA	Readings in Biomedical Eng	Hinds, Monica	1	1030-1130	F	Portland	Fall 18	NA
+11887	BME	607-0	Biomedical Engineering Seminar	Nellore\Heiser	0	1200-1300	F	Portland	Fall 18	NA
+12216	BME	608-0	Grant Writing & Qualifier Prep	Hinds, Monica	1	1500-1600	Th	Portland	Fall 18	NA
+12112	BMI	505F-0	Reading and Conference-Fellows	Eden\McWeeney	1-5	1245-1345	Th	Portland	Fall 18	NA
+11641	BMI	510-DL	Intro to Biomed Informatics	Hersh, Bill	3	Online	Online	Online	Fall 18	NA
+11642	BMI	512-DL	Clinical Information Systems	Mohan, Vishnu	3	Online	Online	Online	Fall 18	NA
+11644	BMI	517-DL	Organization Behavior & Mgmt	Valerius, Joanne	3	Online	Online	Online	Fall 18	NA
+11783	BMI	523-DL	Clinical Research Informatics	Schuff\Weiskopf	3	Online	Online	Online	Fall 18	NA
+11646	BMI	530-DL	The Practice of Health Care	Chase, Dian	3	Online	Online	Online	Fall 18	NA
+11648	BMI	540-DL	Comp Science/Prog Clin Inform	Hribar, Michelle	3	Online	Online	Online	Fall 18	NA
+11649	BMI	550-0	Bio/Comp Biomed I: Algorithms	Zheng, Christina	4	1200-1330	M,W	Portland	Fall 18	NA
+11650	BMI	559-0	Computational Genetics	McWeeney, Shannon	3	1030-1155	T	Portland	Fall 18	NA
+11651	BMI	565-0	Bioinfo Programming/Scripting	Mooney, Michael	3	0900-1025	T, Th	Portland	Fall 18	NA
+11652	BMI	570-DL	Scientific Writing for Inform	Pyle, Kathryn	3	Online	Online	Online	Fall 18	NA
+12381	BMI	576-DL	Managing Ethics Biomed Informa	Valerius, Joanne	3	Online	Online	Online	Fall 18	NA
+12113	BMI	605F-0	Reading and Conference-Fellows	Eden\McWeeney	1-6	1245-1345	Th	Portland	Fall 18	NA
+11745	BMI	610-DL	Intro to Biomed Informatics	Hersh, Bill	3	Online	Online	Online	Fall 18	NA
+11746	BMI	612-DL	Clinical Information Systems	Mohan, Vishnu	3	Online	Online	Online	Fall 18	NA
+11747	BMI	617-DL	Organization Behavior & Mgmt	Valerius, Joanne	3	Online	Online	Online	Fall 18	NA
+11784	BMI	623-DL	Clinical Research Informatics	Schuff\Weiskopf	3	Online	Online	Online	Fall 18	NA
+11749	BMI	630-DL	The Practice of Health Care	Chase, Dian	3	Online	Online	Online	Fall 18	NA
+11751	BMI	640-DL	Comp Science/Prog Clin Inform	Hribar, Michelle	3	Online	Online	Online	Fall 18	NA
+11752	BMI	650-0	Bio/Comp Biomed I: Algorithms	Zheng, Christina	4	1200-1330	M,W	Portland	Fall 18	NA
+11777	BMI	659-0	Computational Genetics	McWeeney, Shannon	3	1030-1155	T	Portland	Fall 18	NA
+11778	BMI	665-0	Bioinfo Programming/Scripting	Mooney, Michael	3	0900-1025	T, Th	Portland	Fall 18	NA
+11779	BMI	670-DL	Scientific Writing for Inform	Pyle, Kathryn	3	Online	Online	Online	Fall 18	NA
+12382	BMI	676-DL	Managing Ethics Biomed Informa	Valerius, Joanne	3	Online	Online	Online	Fall 18	NA
+11501	CANB	606-0	Mechanisms/Cancer Jrl Club	Qian\Agarwal	1	1200-1300	T	Portland	Fall 18	NA
+12114	CANB	606A-0	Tumor Microenvironment JC	Lund, Amanda	1	0900-1000	W	Portland	Fall 18	NA
+11502	CANB	607-0	Cancer Biology Seminar Series	Lund\Sherman\Oshimori	1	1600-1700	M	Portland	Fall 18	NA
+11447	CELL	606-0	Cell/Develop Biology JC	Nechiporuk, Alex	1	0900-1000	T	Portland	Fall 18	NA
+11995	CELL	607A-0	Departmental Seminar Series	Lund\Sherman\Oshimori	1	1600-1700	M	Portland	Fall 18	NA
+12198	CONJ	606-0	PMCB Journal Club	Hoatlin, Maureen	3	1400-1600	T, Th	Portland	Fall 18	NA
+12107	CONJ	606MD-0	MD/PhD Journal Club	Jacoby, David	.5	1200-1300	W	Portland	Fall 18	NA
+12395	CONJ	606RL-0	RLSB Journal Club	Beatty\Korkola	1	1500-1600	T	Portland	Fall 18	NA
+11519	CONJ	607-0	Ethics Seminar	Williams, John	.5	1700-1800	T	Portland	Fall 18	NA
+11521	CONJ	650-0	Practice and Ethics of Science	Schnapp\Duvoisin	1	1600-1800	T	Portland	Fall 18	NA
+11522	CONJ	661-0	Structure & Funct. of Bio Mol.	Farrens\Shinde	3	1030-1200	M-Th	Portland	Fall 18	NA
+11523	CONJ	662-0	Genetic Mechanisms	Dai\Moore	3	0830-1000	M-Th	Portland	Fall 18	NA
+12199	CONJ	663-0	Bioregulation	Impey\Heiser	3	1030-1200	M-Th	Portland	Fall 18	NA
+12200	CONJ	664-0	Molecular Cell Biology	Musil\Farrens	3	0830-1000	M-Th	Portland	Fall 18	NA
+11969	CONJ	670-0	Foundations/Measurement Scienc	Nan\Chang	3	1630-1800	M, W	Portland	Fall 18	NA
+12201	CONJ	671-0	Analysis/Quantitative Bioscien	Ellrott\Zuckerman	3	1500-1625	M, W	Portland	Fall 18	NA
+12126	CS	555-0	Analyzing Sequences	Asgari, Meysam	3	1600-1730	T, Th	Portland	Fall 18	NA
+12363	CS	560-0	Artificial Intelligence	Heeman, Peter	3	1600-1730	M,W	Portland	Fall 18	NA
+12185	CS	623-0	Deep Learning	Asgari, Meysam	3	1400-1530	M,W	Portland	Fall 18	NA
+12127	CS	655-0	Analyzing Sequences	Asgari, Meysam	3	1600-1730	T,Th	Portland	Fall 18	NA
+12364	CS	660-0	Artificial Intelligence	Heeman, Peter	3	1600-1730	M,W	Portland	Fall 18	NA
+12043	EBS	605A-0	Reading Grp: Env & Biomol Sys	Tratnyek, Paul	2	TBA	TBA	Portland	Fall 18	NA
+12128	EE	555-0	Analyzing Sequences	Asgari, Meysam	3	1600-1730	T,Th	Portland	Fall 18	NA
+12186	EE	623-0	Deep Learning	Asgari, Meysam	3	1400-1530	M,W	Portland	Fall 18	NA
+12129	EE	655-0	Analyzing Sequences	Asgari, Meysam	3	1600-1730	T,Th	Portland	Fall 18	NA
+12044	MATH	530-0	Probability and Stat Inference	Hill, Alison	3	1400-1530	T,Th	Portland	Fall 18	NA
+12045	MATH	630-0	Probability and Stat Inference	Hill, Alison	3	1400-1530	T,Th	Portland	Fall 18	NA
+11471	MBIM	605B-0	Virology Journal Club	Streblow, Daniel	1	1230-1330	T	Portland	Fall 18	NA
+11472	MBIM	605C-0	Immunology Journal Club	Davey, Michael	1	0830-0930	Th	Portland	Fall 18	NA
+11473	MBIM	605F-0	Micro/Path Mole/Genetics JC	Purdy, Georgiana	2	1600-1700	W	Portland	Fall 18	NA
+11474	MBIM	607-0	Department Seminar	Nice, Tim	1	1200-1300	M	Portland	Fall 18	NA
+11485	MGEN	605E-0	Molecular/Medical Genetics JC	Moore, Stephen	1	1030-1130	Th	Portland	Fall 18	NA
+11486	MGEN	606-0	Mechanisms Cancer JC	Qian\Agarwal	1-8	1200-1300	T	Portland	Fall 18	NA
+11487	MGEN	607A-0	Departmental Seminar Series	Gillingham, Melanie	1	1200-1300	M,W	Portland	Fall 18	NA
+11488	MGEN	611-0	Departmental Grand Rounds	Zonana, Jon	1	0900-1000	Th	Portland	Fall 18	NA
+11489	MGEN	622-0	Eukaryotic Genetics	Richards, Sue	3	1500-1600	M,W,F	Portland	Fall 18	NA
+12323	MGRD	628-0	Teaching Practicum/Assistantship	Ryabinin, Andrey	3	TBA	TBA	Portland	Fall 18	NA
+11879	MGT	519-HY	Project Mgmt in Healthcare	Sakaguchi, Ronald	4	TBA	TBA	Portland	Fall 18	NA
+12130	MGT	522-HY	Influencing Change in Orgs	Kinder\Cardi	3	TBA	TBA	Portland	Fall 18	NA
+12039	MGT	535-HY	Career Management	Seemann, Rob	1	TBA	TBA	Portland	Fall 18	NA
+12365	MGT	536-HY	Career Conversations	Walter, Jessica	1		Online	Online	Fall 18	NA
+11880	MGT	561-HY	Financial Accounting for H/C	Granholm, Gudrun	4	TBA	TBA	Portland	Fall 18	NA
+11881	MGT	569-HY	Healthcare Marketing	Sakaguchi, Ronald	4	TBA	TBA	Portland	Fall 18	NA
+12051	MP	507-0	Seminar-Matriculation	Tack, Krystina	1	1400-1500	T	Portland	Fall 18	NA
+12052	MP	521-0	Radiological A/P	Tack, Krystina	4	0900-1100	T	Portland	Fall 18	NA
+12053	MP	531-0	Radiophysics	Voss, Shannon	3	1200-1330	W,Th	Portland	Fall 18	NA
+12383	MP	537-0	Shielding/Medical Physicists	Tack\Pugachev\Griglock	3	1100-1400	T	Portland	Fall 18	NA
+12125	MP	543-0	Adv Diagnostic Imaging Phys	Griglock, Thomas	3	1400-1700	T	Portland	Fall 18	NA
+12124	MP	563-0	Appl'd Rad Therapy Phys Lab I	Tack\Pugachev	3	0900-1200	M	Portland	Fall 18	NA
+12197	MP	637-0	Shielding/Medical Physicists	Tack, Krystina	3	1100-1400	T	Portland	Fall 18	NA
+11379	NEUS	606-0	Cell Neuroscience JC	Jackman, Skyler	1	TBA	TBA	Portland	Fall 18	NA
+11380	NEUS	606-01	Neuophy/Hormon Behav JC	Kelly, Martin	1	1000-1130	M	Portland	Fall 18	NA
+11381	NEUS	606-02	Hearing/Research Ctr JC	Trussell, Laurence	1	1600-1700	T	Portland	Fall 18	NA
+11382	NEUS	606-03	Glial Cell JC	Robinson, Fred	1	TBA	TBA	Portland	Fall 18	NA
+11894	NEUS	606-04	Systems Neuroscience JC	David, Stephen	1	TBA	TBA	Portland	Fall 18	NA
+12078	NEUS	606-05	EM Study Group JC	Gouaux, Eric	1	1330-1430	F	Portland	Fall 18	NA
+11383	NEUS	607-0	Vollum Seminar: Neuroscience	Westbrook, Gary	2	1000-1130	Th	Portland	Fall 18	NA
+11384	NEUS	624-0	Cellular Neurophysiology	Williams, John	4	TBA	TBA	Portland	Fall 18	NA
+12027	NEUS	625-0	Cell/Molecular Neurobiology	Copenhaver\Stork	4	TBA	TBA	Portland	Fall 18	NA
+12028	NEUS	627-0	Systems Neuroscience	von Gersdorff\David	4	TBA	TBA	Portland	Fall 18	NA
+12372	NEUS	642-0	Python Program Exptl Neurosci	David\Buran	2	1300-1500	T	Portland	Fall 18	NA
+12054	NUTN	500-0	Community Outreach Project	DeFrancesco, Carol	1	TBA	TBA	Portland	Fall 18	NA
+11505	NUTN	504-0	Supervised Practice Rotation	Jackson, Alexandra	6	0800-1555	T-F	Portland	Fall 18	NA
+11507	NUTN	510-0	Public Health Nutrition	Finn, Jeri	3	0900-1200	M	Portland	Fall 18	NA
+12192	NUTN	513B-0	Food Service/Clinical Manage	Connell, Bert	1	1300-1500	M	Portland	Fall 18	NA
+11508	NUTN	522-0	Antioxidants/Bone/Protein Meta	Hansen, Joyanna	3	1330-1500	W,F	Portland	Fall 18	NA
+12193	NUTN	528-0	I-CAN Nutrition	McGuire, Julie	1	TBA	TBA	Portland	Fall 18	NA
+12390	NUTN	535-0	Oncology Nutrition	McGuire, Julie	2	1530-1730	M	Portland	Fall 18	NA
+12391	NUTN	635-0	Oncology Nutrition	Stadler, Diane	2	1530-1730	M	Portland	Fall 18	NA
+12393	PHYS	510A-HN	Advanced Human Physiology	Cameron, William	3	0900-1200	T	Portland	Fall 18	NA
+11535	PHPH	606-0	PHPH Journal Club	Cohen, Michael	1	1600-1655	T	Portland	Fall 18	NA
+11996	PHPH	606-01	Neuro/Behav JC	Kelly, Martin	.5	1030-1130	M	Portland	Fall 18	NA
+11536	PHPH	607-0	Departmental Seminar	Duvoisin, Robert	1	1600-1700	Th	Portland	Fall 18	NA
+12077	PHPH	610NN-0	Host Defense/Lung Cancer	Lewinsohn\Slatore	.5	1300-1500	W	Portland	Fall 18	NA
+11538	PHPH	617-0	Pharmacokinetics	Duvoisin, Robert	2	1100-1200	T Th	Portland	Fall 18	NA
+11524	RCR	001-0	Sem: Ethics in Research-PDF	Williams, John	.5	1700-1800	T	Portland	Fall 18	NA
+11525	RCR	002-0	Practice/Ethics of Science-PDF	Schnapp\Duvoisin	1	1600-1800	T	Portland	Fall 18	NA
+1992	BME	607-0	Biomedical Engineering Seminar	Hinds, Monica	0	1100-1200	F	Portland	Summer 18	NA
+1268	BMI	510-DL	Intro to Biomed Informatics	Hersh, Bill	3	Online	Online	Online	Summer 18	NA
+1761	BMI	517-HY	Organization Behavior & Mgmt	Ash\Valerius	3	0900-1400	T-F	Portland	Summer 18	NA
+2085	BMI	518-DL	Project Management	McCormack, James	3	Online	Online	Online	Summer 18	NA
+1558	BMI	519-DL	Bus of Healthcare Informatics	Valerius\Mohan	3	Online	Online	Online	Summer 18	NA
+1271	BMI	521-DL	Public Health Informatics	Magnuson, J	3	Online	Online	Online	Summer 18	NA
+1763	BMI	548-HY	Human Compu Interaction Biomed	Hribar\Chiang	3	0900-1600	Th-M	Portland	Summer 18	NA
+1446	BMI	561-HY	Qualitative Research Methods	Ash\Valerius	3	0900-1400	T-F	Portland	Summer 18	NA
+1902	BMI	569-HY	Data Analytics	Laderas\McWeeney	3	0900-1400	M-Th	Portland	Summer 18	NA
+1350	BMI	610-DL	Intro to Biomed Informatics	Hersh, Bill	3	Online	Online	Online	Summer 18	NA
+1762	BMI	617-HY	Organization Behavior & Mgmt	Ash\Valerius	3	0900-1400	T-F	Portland	Summer 18	NA
+2087	BMI	618-DL	Project Management	McCormack, James	3	Online	Online	Online	Summer 18	NA
+1765	BMI	619-DL	Bus of Healthcare Informatics	Valerius\Mohan	3	Online	Online	Online	Summer 18	NA
+1353	BMI	621-DL	Public Health Informatics	Magnuson, J	3	Online	Online	Online	Summer 18	NA
+1764	BMI	648-HY	Human Compu Interaction Biomed	Hribar\Chiang	3	0900-1600	Th-M	Portland	Summer 18	NA
+1447	BMI	661-HY	Qualitative Research Methods	Ash\Valerius	3	0900-1400	T-F	Portland	Summer 18	NA
+1903	BMI	669-HY	Data Analytics	Laderas\McWeeney	3	0900-1400	M-Th	Portland	Summer 18	NA
+2089	CANB	610NN-0	Secret Life non-coding RNAs	Anand\Thayer\Espinosa	.5	1000-1200	T-Th	Portland	Summer 18	NA
+2091	CELL	610NN-0	Secret Life Non-Coding RNAs	Anand\Thayer\Espinosa	.5	1000-1200	T-Th	Portland	Summer 18	NA
+1165	CONJ	601-0	Research PMCB	Duvoisin, Robert	1-16	TBA	TBA	Portland	Summer 18	NA
+1635	CONJ	601-MD6	MD/PhD Research (MS1 & MS2) A	Jacoby, David	5	TBA	TBA	Portland	Summer 18	NA
+1910	CONJ	606MD-0	MD/PhD Journal Club	Jacoby, David	.5	1200-1300	W	Portland	Summer 18	NA
+2040	CONJ	620-0	Introd Biostatistics/Basic Sci	Hill, Alison	3	TBA	T, Th	Portland	Summer 18	NA
+2042	CS	532-0	Analy & Design of Algorithms	Heeman, Peter	3	1600-1730	M,W	Portland	Summer 18	NA
+2043	CS	632-0	Analy & Design of Algorithms	Heeman, Peter	3	1600-1730	M,W,	Portland	Summer 18	NA
+2054	EBS	605A-0	Reading Grp: Env & Biomol Sys	Tratnyek, Paul	2	1500-1630	T	Portland	Summer 18	NA
+1386	MBIM	605B-0	Virology Journal Club	Streblow, Daniel	1	1200-1255	T	Portland	Summer 18	NA
+1387	MBIM	605C-0	Immunology Journal Club	Davey, Michael	1	0830-0930	Th	Portland	Summer 18	NA
+1388	MBIM	605F-0	Micro/Path Mole/Genetics JC	Purdy, Georgiana	2	1600-1700	W	Portland	Summer 18	NA
+1455	MGT	564-HY	Bus Planning & Strategy in H/C	Schulz\Othus	4		F	Portland	Summer 18	NA
+1456	MGT	590-DL	Effective Business Writing	Buratti, Brenda	1	Online	Online	Online	Summer 18	NA
+1913	MP	536-0	Adv Rad Detection/Measurement	Tack, Krystina	4	0800-1600	M-F	Portland	Summer 18	NA
+1912	MP	545-0	Diagnostic Imag Phy Practicum	Griglock, Thomas	3		M-F	Portland	Summer 18	NA
+1911	MP	565-0	Rad Therapy Phys Practicum	Tack, Krystina	3		M-F	Portland	Summer 18	NA
+1772	NEUS	606-0	Summer Fellows JC	Westbrook, Gary	1	TBA	TBA	Portland	Summer 18	NA
+1732	NEUS	630-0	Fluor/Micro/Toolbox/Cell Biol	Kaech-Petrie, Stefanie	1	0900-1100	M-F	Portland	Summer 18	NA
+1695	NUTN	504-0	Supervised Practice Rotation	Jackson\Finn	3	0800-1700	T-F	Portland	Summer 18	NA
+2000	NUTN	513A-0	Food Service/Clinical Manage	Connell, Bert	1	0900-1200	M	Portland	Summer 18	NA
+2001	NUTN	514A-0	Nutn Research/Scientifi Commun	Stadler, Diane	1	1300-1600	M	Portland	Summer 18	NA
+1439	NUTN	517-0	Laboratory Methods in NUTN	Gillingham, Melanie	3	0930-1100	M-Th	Portland	Summer 18	NA
+1440	NUTN	521-0	Energy Metabolism	van Calcar, Sandra	3	1200-1330	M, Th	Portland	Summer 18	NA
+21203	BCMB	605A-0	Protein Structure/Function JC	Shinde\Farrens	1	1300-1355	W	Portland	Winter 19	NA
+21205	BCMB	607A-0	Department Seminar Series	Hoatlin, Maureen	1	1200-1255	M	Portland	Winter 19	NA
+21574	BEHN	606-0	JC: Computational/Theoretical NS	Moghaddam\David	1	1500	1630	Portland	Winter 19	NA
+21732	BEHN	607A-0	Issues Behavior Neuroscience	Grant, Kathleen	1	1600-1700	W	Portland	Winter 19	NA
+21914	BEHN	626-0	Behavioral Psychopharmacology	Finn\Eshleman	3	1430-1600	M,W,F	Portland	Winter 19	NA
+21044	BEHN	650-0	BEHN Teaching Practicum	Griesar, William	1	TBA	TBA	Portland	Winter 19	NA
+21455	BME	607-0	Biomedical Engineering Seminar	Nellore\Heiser	0	1100-1200	F	Portland	Winter 19	NA
+22040	BME	640-0	Fluid Mechanics/Biotransport	Rugonyi, Sandra	3	1230-1400	T,Th	Portland	Winter 19	NA
+22149	BME	680-0	Digital Signal Processing	Kain\Jacobs	3	1430-1600	T,Th	Portland	Winter 19	NA
+22050	BME	690-0	Topics in Nanomedicine	Yantasee\Vu	3	1000-1130	M,W	Portland	Winter 19	NA
+21623	BMI	505F-0	Reading and Conference-Fellows	Weiskopf\Wu	1-5	1245-1345	Th	Portland	Winter 19	NA
+21360	BMI	510-DL	Intro to Biomed Informatics	Hersh, Bill	3	Online	Online	Online	Winter 19	NA
+21925	BMI	516-DL	Standards/Interoperability HC	Orwoll, Benjamin	3	Online	Online	Online	Winter 19	NA
+21361	BMI	518-DL	Project Management	McCormack, James	3	Online	Online	Online	Winter 19	NA
+21545	BMI	520-DL	Consumer Health Informatics	Valerius, Joanne	3	Online	Online	Online	Winter 19	NA
+21733	BMI	535-0	Mgmt & Processing Large Data	Mooney\Zheng	3	1300-1430	T,F	Portland	Winter 19	NA
+21362	BMI	538-DL	Medical Decision Making	Eden, Karen	3	Online	Online	Online	Winter 19	NA
+21364	BMI	544-DL	Databases	Fletcher, Justin	3	Online	Online	Online	Winter 19	NA
+21365	BMI	551-0	BCB II: Statistical Methods	McWeeney, Shannon	4	0900-1020	T,Th	Portland	Winter 19	NA
+21616	BMI	552A-0	Research Methods/Bioinformatic	Boudreau, Eilis	1-2	0930-1155	F	Portland	Winter 19	NA
+21547	BMI	560-DL	Design & Eval in Health Inform	Mohan, Vishnu	3	Online	Online	Online	Winter 19	NA
+21624	BMI	605F-0	Reading and Conference-Fellows	Weiskopf\Wu	1-6	1245-1345	Th	Portland	Winter 19	NA
+21451	BMI	610-DL	Intro to Biomed Informatics	Hersh, Bill	3	Online	Online	Online	Winter 19	NA
+21926	BMI	616-DL	Standards/Interoperability HC	Orwoll, Benjamin	3	Online	Online	Online	Winter 19	NA
+21452	BMI	618-DL	Project Management	McCormack, James	3	Online	Online	Online	Winter 19	NA
+21546	BMI	620-DL	Consumer Health Informatics	Valerius, Joanne	3	Online	Online	Online	Winter 19	NA
+21734	BMI	635-0	Mgmt & Processing Large Data	Mooney\Zheng	3	1300-1430	T,F	Portland	Winter 19	NA
+21453	BMI	638-DL	Medical Decision Making	Eden, Karen	3	Online	Online	Online	Winter 19	NA
+21456	BMI	644-DL	Databases	Fletcher, Justin	3	Online	Online	Online	Winter 19	NA
+21457	BMI	651-0	BCB II: Statistical Methods	McWeeney, Shannon	4	0900-1020	T,Th	Portland	Winter 19	NA
+21617	BMI	652A-0	Research Methods/Bioinformatic	Boudreau, Eilis	1-2	0930-1155	F	Portland	Winter 19	NA
+21548	BMI	660-DL	Design & Eval. in Health Infor	Mohan, Vishnu	3	Online	Online	Online	Winter 19	NA
+20958	CANB	606-0	Mechanisms/Cancer Jrl Club	Qian\Agarwal	1	1200-1255	T	Portland	Winter 19	NA
+21681	CANB	606A-0	Tumor Microenvironment JC	Lund, Amanda	1	0900-0955	W	Portland	Winter 19	NA
+20959	CANB	607-0	Cancer Biology Seminar Series	Oshimori\Sherman	1	1600-1700	M	Portland	Winter 19	NA
+21703	CANB	610NN-0	Intro Single Cell 'Omics Data	Adey, Andrew	.5	1000-1200	M,W	Portland	Winter 19	NA
+21041	CANB	613A-0	Tissue Biology	Schnapp\Nechiporuk\Adey	4	1000-1125	T,Th	Portland	Winter 19	NA
+21042	CANB	613B-0	Current Topics/Tissue Biology	Schnapp\Nechiporuk\Adey	1	1000-1125	T,Th	Portland	Winter 19	NA
+21000	CELL	606-0	Cell & Develop Bio JC	Nechiporuk, Alex	1	0900-0955	T	Portland	Winter 19	NA
+21001	CELL	607A-0	Departmental Seminar Series	Oshimori\Sherman	1	1600-1655	M	Portland	Winter 19	NA
+21702	CELL	610NN-0	Intro Single Cell 'Omics Data	Adey, Andrew	.5	1000-1200	M,W	Portland	Winter 19	NA
+21039	CELL	613A-0	Tissue Biology	Schnapp\Nechiporuk\Adey	4	1000-1125	T,Th	Portland	Winter 19	NA
+21040	CELL	613B-0	Current Topics/Tissue Biology	Schnapp\Nechiporuk\Adey	1	1000-1125	T,Th	Portland	Winter 19	NA
+20899	CONJ	601-0	PMCB Research (1st Yr Only)	Duvoisin, Robert	1-16	TBA	TBA	Portland	Winter 19	NA
+21712	CONJ	606MD-0	MD/PhD Journal Club	Jacoby, David	.5	1200-1300	W	Portland	Winter 19	NA
+20900	CONJ	607E-0	PMCB Seminar	Duvoisin, Robert	1	1200-1330	M	Portland	Winter 19	NA
+21918	CS	562-0	Natural Language Processing	Bedrick, Steven	3	1615-1745	T,Th	Portland	Winter 19	NA
+22051	CS	606-XS	Advanced Machine Learning	Song, Xubo	2	1200-1330	M,W	Portland	Winter 19	NA
+21919	CS	662-0	Natural Language Processing	Bedrick, Steven	3	1615-1745	T,Th	Portland	Winter 19	NA
+21916	CS	692-0	Research Ethics for CS & EE	Dolata, Jill	1	1300-1400	Th	Portland	Winter 19	NA
+22052	EE	606-XS	Advanced Machine Learning	Song, Xubo	2	1200-1330	M,W	Portland	Winter 19	NA
+21920	EE	682-0	Digital Signal Processing	Kain\Jacobs	3	1430-1600	T,Th	Portland	Winter 19	NA
+21917	EE	692-0	Research Ethics for CS & EE	Dolata, Jill	1	1300-1400	Th	Portland	Winter 19	NA
+20977	MBIM	605C-0	Immunology Journal Club	Davey, Michael	1	0830-0925	Th	Portland	Winter 19	NA
+20978	MBIM	605E-0	Virology Jrnl Club-Primate Ctr	Streblow, Daniel	1	1200-1300	T	Portland	Winter 19	NA
+20979	MBIM	605F-0	Micro/Path Mole/Genetics JC	Nice, Tim	2	1600-1700	W	Portland	Winter 19	NA
+20980	MBIM	607-0	Dept Seminar Series	Lind, Evan	1	1200-1300	M	Portland	Winter 19	NA
+20981	MBIM	610-0	Introduction to Immunology	Lind, Evan	2	1500-1700	Th	Portland	Winter 19	NA
+21218	MGEN	605E-0	Molecular/Medical Genetics JC	Moore, Stephen	1	1030-1130	Th	Portland	Winter 19	NA
+21219	MGEN	606-0	Mechanisms/Cancer JC	Qian\Agarwal	1	1200-1255	T	Portland	Winter 19	NA
+21220	MGEN	607A-0	Departmental Seminar Series	Gillingham, Melanie	1	1600-1700	W	Portland	Winter 19	NA
+21556	MGEN	610-0	Essentials Molecular & Med Gen	Ralle, Martina	2	1500-1600	T,Th	Portland	Winter 19	NA
+22039	MGEN	610NN-0	Intro Single Cell 'Omics Data	Adey, Andrew	.5	1000-1200	M, W	Portland	Winter 19	NA
+21221	MGEN	611-0	Departmental Grand Rounds	Zonana, Jon	1	0900-1000	Th	Portland	Winter 19	NA
+21222	MGEN	624-0	Gene and Cell Therapy	Nakai\Ma	2	1400-1500	M,F	Portland	Winter 19	NA
+21212	MGT	508-HY	Ethics in H/C Organizations	Tsukuda\Gorsuch	2			Portland	Winter 19	NA
+21213	MGT	518-HY	Quality & Safety in Healthcare	Huntzicker, James	4			Portland	Winter 19	NA
+21649	MGT	536-0	Career Conversations	Walter, Jessica	1			Online	Winter 19	NA
+21214	MGT	553-HY	Capstone Proj in Healthcare I	Sakaguchi\Kinder	2		F,	Portland	Winter 19	NA
+21216	MGT	560-HY	Org/Fin/Hist of Hlthcare Deliv	Huntzicker\Lones	4		F,	Portland	Winter 19	NA
+21217	MGT	570-HY	Operations Mgmt in Healthcare	Hawley\Othus	4			Portland	Winter 19	NA
+21653	MP	507-0	Seminar: Radiation Therapy	Crilly, Richard	1	0900-1000	T	Portland	Winter 19	NA
+21650	MP	541-0	Diagnostic Imaging Physics I	DeWeese\Griglock	3	1400-1515	T,Th	Portland	Winter 19	NA
+21696	MP	544-0	Nuclear Medicine Imaging	Griglock, Thomas	3	1300-1600	W	Portland	Winter 19	NA
+21651	MP	561-0	Radiation Therapy Physics I	Pugachev, Andrei	3	1530-1700	M,W	Portland	Winter 19	NA
+21697	MP	564-0	Appl'd Rad Therapy Phys Lab II	Pugachev, Andrei	3	TBA	TBA	Portland	Winter 19	NA
+21652	MP	570-0	Rad Biology/Medical Physicists	DeWeese, Lindsay	4	1630-1830	T	Portland	Winter 19	NA
+21176	NEUS	606-0	Biophysics Journal Club	Trussell, Laurence	1	0900-1000	Th	Portland	Winter 19	NA
+21177	NEUS	606-01	Cell Neuroscience Jrnl Club	Jackman, Skyler	1	1600-1700	F	Portland	Winter 19	NA
+21178	NEUS	606-02	Neurophy/Hormones/Behav JC	Kelly, Martin	.5	1030-1130	M	Portland	Winter 19	NA
+21179	NEUS	606-03	OHRC Journal Club	Trussell, Laurence	1	1600-1700	T	Portland	Winter 19	NA
+21180	NEUS	606-04	Glia Cell Journal Club	Robinson, Fred	1	TBA	TBA	Portland	Winter 19	NA
+21513	NEUS	606-05	Systems Neuroscience JC	David, Stephen	1	1600-1700	F	Portland	Winter 19	NA
+21583	NEUS	606-06	EM Study Group/JC	Gouaux, Eric	1	1330-1430	F	Portland	Winter 19	NA
+21181	NEUS	607-0	NGP Seminar Course	Westbrook, Gary	2	1030-1130	Th	Portland	Winter 19	NA
+20893	NUTN	500-0	Community Outreach Project	DeFrancesco, Carol	1	TBA	TBA	Portland	Winter 19	NA
+20895	NUTN	504-0	Supervised Practice Rotation	Jackson, Alexandra	6	0800-1625	T-F	Portland	Winter 19	NA
+21576	NUTN	507-0	Nutrition Seminar	TBA	1	1100-1300	Th	Portland	Winter 19	NA
+20898	NUTN	511-0	Path/Medical Nutrition Therapy	McGuire, Julie	3	0900-1200	M	Portland	Winter 19	NA
+22049	NUTN	514B-0	Nutn Research/Scientifi Commun	Stadler, Diane	2	1300-1430	M	Portland	Winter 19	NA
+21735	NUTN	528-0	I-CAN Nutrition	McGuire, Julie	1	TBA	TBA	Portland	Winter 19	NA
+22048	NUTN	530-0	Maternal/Infant/Child Nutn	van Calcar, Sandra	3	1445-1615	M	Portland	Winter 19	NA
+21695	NUTN	534-0	Motiva Interview Hlth Care Pro	DeFrancesco, Carol	2	1730-1930	T	Portland	Winter 19	NA
+22141	NUTN	537-0	Sports Nutrition Practicum	Jackson, Alexandra	1	TBA	TBA	Portland	Winter 19	NA
+21761	NUTN	634-0	Motiva Interview Hlth Care Pro	Stadler\DeFrancesco	2	1730-1930	T	Portland	Winter 19	NA
+20946	PHPH	606-0	PHPH Journal Club	Cohen, Michael	1	1600-1655	T	Portland	Winter 19	NA
+21558	PHPH	606-01	Neurophy/Neuroendo/Behav JC	Kelly, Martin	1	1000-1130	M	Portland	Winter 19	NA
+21928	PHPH	606-03	PH2 Chemistry Journal Club	Cohen\Ferrara	1	1100-1300	M	Portland	Winter 19	NA
+20947	PHPH	607-0	Departmental Seminar Series	Duvoisin, Robert	1	1600-1700	Th	Portland	Winter 19	NA
+21927	PHPH	617-0	Pharmacokinetics	Scanlan, Tom	2	1100-1200	T,Th	Portland	Winter 19	NA
+22046	PHYS	510B-HN	Adv Human Physiology	Cameron, William	3	0900-1200	T	Portland	Winter 19	NA
+11080	BSTA	500	Reading & Research Biostat	Fu, Rochelle	1-3	Check SIS	By arrangement	NA	Fall 2018	OHSU Campus
+11082	BSTA	507	Field Experience	Fu, Rochelle	1-6	Check SIS	By arrangement	NA	Fall 2018	OHSU Campus
+11059	BSTA	510	Biostatistics Lab	Choi, Dongseok	3	Check SIS	By arrangement	NA	Fall 2018	OHSU Campus
+11075	BSTA	511	Est/Hypo Test Applied Biostat	Nguyen, Thuan	4	1300-1450	M, W	NA	Fall 2018	Check SIS
+11060	BSTA	515	Data Management-Analysis SAS	Nguyen, Thuan	3	1530-1810	T	NA	Fall 2018	Check SIS
+11083	BSTA	519	Appl Longitudinal Data Analysi	Fu, Rochelle	3	1500-1750	M	NA	Fall 2018	Check SIS
+11061	BSTA	550	Introduction to Probability	Niederhausen, Meike	3	1030-1200	M, W	NA	Fall 2018	Check SIS
+11147	BSTA	525	Intro to Biostatistics	Srikanth, Priya	4	Check SIS	OHSU Online	NA	Fall 2018	OHSU Campus
+11062	BSTA	611	Est/Hypo Test Applied Biostat	Nguyen, Thuan	4	1300-1450	M, W	NA	Fall 2018	Check SIS
+11173	UNI	504	Qualitative Methods/Health Pro	Marriott, Lisa	2	1500-1640	W	NA	Fall 2018	Check Banweb
+31100	BSTA	500-RF	Reading & Research Biostat	Fu, Rochelle	1-3	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31101	BSTA	503-RF	Thesis	Fu, Rochelle	1-3	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31119	BSTA	507-RF	Field Experience	Fu, Rochelle	1-6	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31102	BSTA	510-0	Biostatistics Lab	Choi, Dongseok	3	Arrange byInstructor	T	NA	Spring 2018	Check SIS
+31103	BSTA	513-0	Categorical Data Analysis	Chen, Yiyi	4	1300-1450	M,W	NA	Spring 2018	Check SIS
+31126	BSTA	516-0	Design Analysis of Surveys	Nguyen, Thuan	3	1300-1550	T	NA	Spring 2018	Check SIS
+32187	BSTA	521-0	Bayesian Methods for Data Analysis	Fu, Rochelle	3	1500-1750	M	NA	Spring 2018	Check SIS
+31159	BSTA	523-0	Design of Experiments	Park, Byung	3	0830-1130	R	NA	Spring 2018	Check SIS
+31104	BSTA	552-0	Mathematical Statistics II	Minnier, Jessica	3	1000-1130	M,W	NA	Spring 2018	Check SIS
+31105	BSTA	613-0	Categorical Data Analysis	Chen, Yiyi	4	1300-1450	M,W	NA	Spring 2018	Check SIS
+31106	PHPM	503-JBH	Thesis	Heinonen, Janne	1-12	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31107	PHPM	504	Work Experience/Internship	Heinonen, Janne	1-6	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31121	PHPM	505-JBH	Reading and Conference	Heinonen, Janne	1-6	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31161	PHPM	507-0	Sem: Community Health	Stull, John; Zaman, Atif	1	1730-1900	T	NA	Spring 2018	Check SIS
+31127	PHPM	514-0	Epidemiology III	Lambert, William	4	1300-1450	T,R	NA	Spring 2018	Check SIS
+32227	PHPM	518	Concepts of Environmental Health	Marriott, Lisa	3	1600-1830	W	NA	Spring 2018	Check SIS
+31132	PHPM	524-0	Intro to Biostatistics	Srikanth, Priya	4	0930-1120	T,R	NA	Spring 2018	Check SIS
+32208	PHPM	576-0	Chronic Disease Epidemiology	Becker, Thomas	2	1500-1640	R	NA	Spring 2018	Check SIS
+31133	PHPM	603-0	Epi Doctoral Dissertation	Marshall, Lynn	1-12	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31122	PHPM	605-LM	Reading and Conference	Marshall, Lynn	1-4	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31123	PHPM	610-0	Epi Doctoral Seminar	Snowden, Jonathan	3	0900-1200	W	NA	Spring 2018	Check SIS
+31134	PHPM	614-0	Epidemiology III	Lambert, William	4	1300-1450	T,R	NA	Spring 2018	Check SIS
+31124	PHPM	650-LM	Mentored Epi Research	Marshall, Lynn	1-6	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+31125	PHPM	660-LM	Mentored Epi Teaching	Marshall, Lynn	1	Check SIS	N/A	NA	Spring 2018	OHSU Campus
+1069	BSTA	500	Reading & Research Biostat	Fu, Rochelle	1-3	Check SIS	By Arrangement	NA	Summer 2018	OHSU Campus
+1070	BSTA	503	Thesis	Fu, Rochelle	1-3	Check SIS	By Arrangement	NA	Summer 2018	OHSU Campus
+1101	BSTA	507	Field Experience	Park, Byung	3-6	Check SIS	By Arrangement	NA	Summer 2018	OHSU Campus
+1065	BSTA	510	Biostatistics Lab	Choi, Dongseok	3	Check SIS	By Arrangement	NA	Summer 2018	OHSU Campus
+1077	BSTA	517	Stat Methods Clinical Trials	Chen, Yiyi	3	Course meets August 6 - Sept. 7.	OHSU Online	NA	Summer 2018	
+2092	BSTA	525	Introduction to Biostatistics	Lin, Amber	4	Course meets 11-weeks	OHSU Online	NA	Summer 2018	
+21802	BSTA	500	Reading & Research Biostat	Fu, Rochelle	1-3	Check SIS	By arrangement	NA	Winter 2019	OHSU Campus
+21804	BSTA	507	Field Experience	Park, Byung	1-6	Check SIS	By arrangement	NA	Winter 2019	OHSU Campus
+21805	BSTA	510	Biostatistics Lab	Choi, Dongseok	3	Check SIS	By arrangement	NA	Winter 2019	OHSU Campus
+21806	BSTA	512	Linear Models	Nguyen, Thuan	4	1300-1450	M, W	NA	Winter 2019	Check SIS
+21808	BSTA	514	Survival Analysis	Lapidus, Jodi	3	1715-1830	T, R	NA	Winter 2019	Check SIS
+21809	BSTA	522	Statistical Learning/Big Data	Choi, Dongseok	3	0900-1145	T	NA	Winter 2019	Check SIS
+21811	BSTA	525	Intro to Biostatistics	Srikanth, Priya	4	1400-1550	M, W	NA	Winter 2019	Check SIS
+21810	BSTA	551	Mathematical Statistics I	Yanez, David	3	1030-1200	M, W	NA	Winter 2019	Check SIS
+21807	BSTA	612	Linear Models	Nguyen, Thuan	4	1300-1450	M, W	NA	Winter 2019	Check SIS
+21826	UNI	504	Qualitative Methods/Health Pro	Marriott, Lisa	2	1500-1640	T	NA	Winter 2019	Check Banweb
